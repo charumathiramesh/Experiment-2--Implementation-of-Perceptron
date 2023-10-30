@@ -127,6 +127,6 @@ plt.show()
 ![278288848-586934c1-ee08-4c76-ae5a-e3f9b0f77efa](https://github.com/charumathiramesh/Experiment-2--Implementation-of-Perceptron/assets/120204455/64144270-9505-4ce4-a30d-990506668fc5)
 
 
-##RESULT:
+## RESULT:
 Thus ,a perceptron for classification using Python is executed successfully.
 
